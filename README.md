@@ -1,5 +1,5 @@
 ## Hi there 👋
-
+[![trophy](https://github-profile-trophy.vercel.app/?username=8Mostafa0&theme=algolia&no-frame=true)](https://github.com/8Mostafa0/github-profile-trophy)
 <!--
 **8Mostafa0/8Mostafa0** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
